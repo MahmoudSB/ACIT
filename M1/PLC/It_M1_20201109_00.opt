@@ -109,7 +109,7 @@ BEGIN
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="724821";
+  PctWidth:="724820";
   MRUFloat:="300 180";
   MRUHorzDock:="1919 180";
   MRUVertDock:="482 132";
@@ -203,8 +203,7 @@ BEGIN
  Item[1]:=2;
  Item[2]:=385;
  Item[3]:=386;
- Item[4]:=1459;
- ItemCount:=5;
+ ItemCount:=4;
  Sumcheck:=1592;
  Selected:=1428;
 END;
