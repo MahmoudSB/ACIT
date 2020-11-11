@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cxdconfig showid="false" showaddress="false" showaddresstype="variable" sheettableexpand="true" screentableexpand="true" currenthostkey="4">
+	<categorylist expand="true">
+		<category title="Produtos" expand="true">
+			<item id="0010">
+			</item>
+			<item id="0020">
+			</item>
+		</category>
+		<category title="PopUp" expand="true">
+			<item id="0031">
+			</item>
+			<item id="0032">
+			</item>
+			<item id="0033">
+			</item>
+			<item id="0034">
+			</item>
+			<item id="0035">
+			</item>
+			<item id="0041">
+			</item>
+			<item id="0042">
+			</item>
+			<item id="0043">
+			</item>
+			<item id="0044">
+			</item>
+			<item id="0045">
+			</item>
+		</category>
+		<category title="Geral" expand="true">
+			<item id="0002">
+			</item>
+			<item id="0000">
+			</item>
+			<item id="0005">
+			</item>
+		</category>
+	</categorylist>
+	<useasdefault>
+		<defaultform width="640" height="480" popupwidth="320" popupheight="240">
+		</defaultform>
+	</useasdefault>
+	<testrunconfig testrunmode="1" hostname="PLC_GERAL" networkid="0" cxpfilepath="E:\Servidor\TLIS_0446_12 - OSI - Gestão Produção Linhas Tratamento ACIT\PLC Applications\PLC ACIT\PLC_ACIT.cxp" hosttype="3">
+	</testrunconfig>
+	<toolversion major="3" minor="7" runningchange="3">
+	</toolversion>
+	<gridconfig visible="true" snap="true" xmeshsize="5" ymeshsize="5">
+	</gridconfig>
+	<searchconfig>
+		<historygrouptable>
+			<historygroup name="0">
+				<history index="0" data="401.0">
+				</history>
+				<history index="1" data="0.0">
+				</history>
+				<history index="2" data="232">
+				</history>
+				<history index="3" data="cccc">
+				</history>
+				<history index="4" data="dm00206">
+				</history>
+			</historygroup>
+		</historygrouptable>
+	</searchconfig>
+	<replaceconfig>
+		<historygrouptable>
+			<historygroup name="0">
+			</historygroup>
+			<historygroup name="1">
+			</historygroup>
+			<historygroup name="2">
+			</historygroup>
+		</historygrouptable>
+	</replaceconfig>
+	<lastopenedforms>
+		<lastopenedform index="0" type="sheet">
+		</lastopenedform>
+	</lastopenedforms>
+</cxdconfig>

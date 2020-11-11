@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cxdconfig showid="false" showaddress="false" showaddresstype="variable" magnification="1001" sheettableexpand="true" screentableexpand="true" currenthostkey="3">
+	<categorylist expand="true">
+		<category title="Paginas" expand="true">
+			<item id="0010">
+			</item>
+			<item id="0001">
+			</item>
+		</category>
+		<category title="PopUp" expand="true">
+			<item id="0031">
+			</item>
+			<item id="0032">
+			</item>
+			<item id="0033">
+			</item>
+		</category>
+		<category title="Geral" expand="true">
+			<item id="0002">
+			</item>
+			<item id="0000">
+			</item>
+		</category>
+		<category title="Maquinas" expand="true">
+			<item id="0041">
+			</item>
+			<item id="0042">
+			</item>
+			<item id="0043">
+			</item>
+			<item id="0044">
+			</item>
+			<item id="0045">
+			</item>
+			<item id="0046">
+			</item>
+		</category>
+		<item id="0020">
+		</item>
+	</categorylist>
+	<useasdefault>
+		<defaultform width="640" height="480" popupwidth="320" popupheight="240">
+		</defaultform>
+	</useasdefault>
+	<testrunconfig testrunmode="1" hostname="PLC_TRANSP" networkid="0" cxpfilepath="D:\Tartaruga - Projectos\ACIT\PLC\Transporte.cxp" hosttype="3">
+	</testrunconfig>
+	<toolversion major="3" minor="7" runningchange="3">
+	</toolversion>
+	<gridconfig visible="false" snap="true" xmeshsize="5" ymeshsize="5">
+	</gridconfig>
+	<searchconfig>
+		<historygrouptable>
+			<historygroup name="0">
+				<history index="0" data="cccc">
+				</history>
+				<history index="1" data="dm00206">
+				</history>
+				<history index="2" data="$B0">
+				</history>
+				<history index="3" data="$W0">
+				</history>
+			</historygroup>
+		</historygrouptable>
+	</searchconfig>
+	<lastopenedforms>
+		<lastopenedform index="0" type="screen" number="10">
+		</lastopenedform>
+	</lastopenedforms>
+</cxdconfig>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cxdconfig showid="false" showaddress="false" showaddresstype="variable" magnification="1001" sheettableexpand="true" screentableexpand="true" currenthostkey="4">
+	<categorylist expand="true">
+		<category title="Maquina1" expand="true">
+			<item id="0010">
+			</item>
+			<item id="0011">
+			</item>
+			<item id="0012">
+			</item>
+			<item id="0022">
+			</item>
+			<item id="0015">
+			</item>
+			<item id="0016">
+			</item>
+			<item id="0040">
+			</item>
+			<item id="0025">
+			</item>
+		</category>
+		<category title="Offline" expand="true">
+			<item id="0050">
+			</item>
+			<item id="0051">
+			</item>
+			<item id="0052">
+			</item>
+			<item id="0053">
+			</item>
+			<item id="0054">
+			</item>
+			<item id="0055">
+			</item>
+		</category>
+		<category title="Geral" expand="true">
+			<item id="0002">
+			</item>
+			<item id="0000">
+			</item>
+			<item id="0005">
+			</item>
+		</category>
+		<item id="0023">
+		</item>
+		<item id="0031">
+		</item>
+	</categorylist>
+	<useasdefault>
+		<defaultform width="640" height="480" popupwidth="320" popupheight="240">
+		</defaultform>
+	</useasdefault>
+	<testrunconfig testrunmode="1" hostname="PLC" networkid="0" cxpfilepath="E:\Servidor\TLIS_0446_12 - OSI - Gestão Produção Linhas Tratamento ACIT\PLC Applications\PLC ACIT\Copy of PLC_ACIT.cxp" hosttype="3">
+	</testrunconfig>
+	<toolversion major="3" minor="7" runningchange="3" bugfix="0">
+	</toolversion>
+	<gridconfig visible="true" snap="true" xmeshsize="5" ymeshsize="5">
+	</gridconfig>
+	<searchconfig>
+		<historygrouptable>
+			<historygroup name="0">
+				<history index="0" data="m1_hmi_st_on_msg">
+				</history>
+				<history index="1" data="dm00206">
+				</history>
+				<history index="2" data="$B0">
+				</history>
+				<history index="3" data="$W0">
+				</history>
+			</historygroup>
+		</historygrouptable>
+	</searchconfig>
+	<lastopenedforms>
+		<lastopenedform index="0" type="screen" number="55">
+		</lastopenedform>
+	</lastopenedforms>
+	<replaceconfig>
+		<historygrouptable>
+			<historygroup name="0">
+			</historygroup>
+			<historygroup name="1">
+			</historygroup>
+			<historygroup name="2">
+			</historygroup>
+		</historygrouptable>
+	</replaceconfig>
+</cxdconfig>
